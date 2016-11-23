@@ -1,0 +1,16 @@
+name: PocketCmd
+author: Dog2puppy
+api: [2.0.0]
+version: 1.0
+main: Dog2puppy\PocketCmd\Main # Note that after SRC Directory, include all sub folder directories to Main but do not include .php extension in plugin.yml and This main PluginPlugin IS JUST AN EXAMPLE
+
+# Commands: If ur plugin has commands: Do this:
+command:
+cmd1:
+description: The main command for PocketCmd.
+usage: /PocketCmd
+
+# Permissions 
+permissions:
+pocketcmd.command:
+default: OP
