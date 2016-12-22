@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Dog2puppy/PocketCmd
+branches:
+- master
+projects:
+  PocketCmd:
+    path: ""
+...
